@@ -1,0 +1,24 @@
+body {
+	text-align: center;
+}
+
+#name {
+	margin-top: 40vh;
+}
+
+#myname {
+	font-family: 'Libre Barcode 39', cursive;
+	font-size: 8vh;
+}
+
+#links {
+	margin-top: 10vh;
+}
+
+.link_img {
+	height: 10vh;
+}
+
+.link_item {
+	margin: 0vh 5vw;
+}
