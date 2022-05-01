@@ -7,8 +7,10 @@ body {
 }
 
 #myname {
-	font-family: 'Libre Barcode 39', cursive;
-	font-size: 8vh;
+	font-family: futura-pt, sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 5vh;
 }
 
 #links {
